@@ -20,3 +20,13 @@
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
+<img src="/img/octopus-64x64.png" alt="Testing Library" >
+<img src= "https://www.sngular.com/wp-content/uploads/2021/07/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415-1200x411.png" width="50" height="50"/>
+
+### knowledge of:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="50" height="50"/>
