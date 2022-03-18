@@ -5,7 +5,7 @@
 - When I'm not coding, I do traveling, read manga, watch anime, or play video games.
 - I'm currently looking for job 😄
 
-## Languages and tools 💪
+## Languages and tools
 
 ### I can work with:
 
