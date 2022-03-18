@@ -23,9 +23,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/> <img src="https://testing-library.com/img/logo-large.png" alt="Testing Library" width="50" height="50">
 
-### knowledge of:
+### Knowledge of:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
 
 ---
+## GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redapy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redapy)](https://github.com/anuraghazra/github-readme-stats)
