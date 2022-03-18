@@ -21,8 +21,8 @@
 
 ### Learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/> <img src="https://testing-library.com/img/logo-large.png" alt="Testing Library" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/> <img src="https://testing-library.com/img/logo-large.png" alt="Testing Library" width="50" height="50">
 
 ### knowledge of:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
