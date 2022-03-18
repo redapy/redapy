@@ -26,3 +26,6 @@
 ### knowledge of:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redapy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
