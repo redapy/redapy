@@ -3,7 +3,6 @@
 - I'm a front-end developer based in Morocco, transitioning from a Marine Mechanic background into tech.
 - Self-taught, curious, never stop learning 👨‍💻
 - When I'm not coding, I do traveling, read manga, watch anime, or play video games.
-- I'm currently looking for job 😄
 
 ## Languages and tools
 
