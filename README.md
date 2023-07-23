@@ -1,6 +1,6 @@
 ## Hi There 👋, my name is Reda
 
-- I'm a front-end developer based in Morocco, transitioning from a Marine Mechanic background into tech.
+- I'm a front-end developer based in Morocco, with a background in Marine Mechanics.
 - Self-taught, curious, never stop learning 👨‍💻
 - When I'm not coding, I do traveling, read manga, watch anime, or play video games.
 
